@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/georgioupanayiotis/covid19-reacthooks/blob/master/covid19-reacthooks.gif">
+</p>
+
 # covid19-reacthooks
 React Hooks example with covid-19 api fetch data
 
