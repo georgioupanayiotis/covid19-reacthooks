@@ -8,6 +8,8 @@ React Hooks example with covid-19 api fetch data
 # API
 [https://corona.lmao.ninja/docs/](https://corona.lmao.ninja/docs/)
 
+[Documentation](https://github.com/novelcovid/api)
+
 # Dependencies
 ```
 {
