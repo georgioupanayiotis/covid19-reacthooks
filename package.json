@@ -9,7 +9,7 @@
     "author": "Panayiotis Georgiou",
     "license": "ISC",
     "dependencies": {
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "next": "^9.3.0",
         "normalize.css": "^8.0.1",
         "react": "^16.13.0",
